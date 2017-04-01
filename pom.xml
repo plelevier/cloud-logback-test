@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.necoutezpas</groupId>
-    <artifactId>test-logback</artifactId>
+    <artifactId>gcloud-logback-test</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
